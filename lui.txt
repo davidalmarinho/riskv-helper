@@ -1,0 +1,2 @@
+Ex.: Initialize variable 't0' with 0x12345000:
+lui t0, t0, 0x12345
